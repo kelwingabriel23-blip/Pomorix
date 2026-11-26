@@ -1,0 +1,10 @@
+{
+  "appId": "com.pomorix.app",
+  "appName": "Pomorix",
+  "webDir": "www",
+  "backgroundColor": "#07040F",
+  "android": { "backgroundColor": "#07040F", "allowMixedContent": false },
+  "plugins": {
+    "LocalNotifications": { "iconColor": "#8B5CF6" }
+  }
+}
